@@ -5,7 +5,7 @@
 
 # Step 1:
 # Create dockerpath
-dockerpath=manishbisht/development
+dockerpath=gaurav0o7/development
 
 # Step 2:  
 # Authenticate & tag
